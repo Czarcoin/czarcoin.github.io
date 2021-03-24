@@ -1,3 +1,3 @@
-# storj.io
+# czarcoin.github.io
 
 It's awesome.
